@@ -1,0 +1,24 @@
+{
+  "name": "demo3",
+  "version": "0.0.1",
+  "homepage": "https://github.com/qingfeng365/demo3",
+  "authors": [
+    "qingfengwuyou <h3658686@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha"
+  }
+}
